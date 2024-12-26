@@ -1,4 +1,4 @@
-tuple = ("Jul, Joulu, Weihnachten, Navidad, Noel")
+tuple = ("Jul", "Joulu", "Weihnachten", "Navidad", "Noel")
 immutable_var = tuple
 print(immutable_var)
 mutable_list = ["7 октября", "7 ноября", "23 февраля", "1 мая"]
